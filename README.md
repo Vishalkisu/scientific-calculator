@@ -42,7 +42,7 @@ A modern scientific calculator built with Python and tkinter, featuring a sleek 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/scientific-calculator.git
+git clone https://github.com/Vishalkisu/scientific-calculator.git
 ```
 
 2. Navigate to the project directory:
