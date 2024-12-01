@@ -1,0 +1,11 @@
+repository:
+  description: A modern scientific calculator with a sleek dark theme, built using Python and tkinter. Features advanced mathematical functions, memory operations, and keyboard support.
+  topics:
+    - python
+    - calculator
+    - scientific-calculator
+    - tkinter
+    - gui
+    - mathematics
+    - desktop-application
+    - dark-theme
